@@ -5,7 +5,7 @@ let doorImage2 = document.getElementById("door2");
 let doorImage3 = document.getElementById("door3");
 let startButton = document.getElementById("start");
 
-let temp =2
+let temp = 23
 
 let closedDoorPath =
   "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/closed_door.svg";
